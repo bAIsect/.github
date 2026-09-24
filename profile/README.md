@@ -1,4 +1,4 @@
-![bAIsect](profile/github-banner.jpg)
+![bAIsect](github-banner.jpg)
 
 ## bAIsect
 
