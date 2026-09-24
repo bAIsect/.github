@@ -1,3 +1,5 @@
+![bAIsect](profile/github-banner.jpg)
+
 ## bAIsect
 
 **Find the right engineer to fix the right problems.**
